@@ -1,3 +1,5 @@
+package recursion_and_backtracking;
+
 import java.util.Scanner;
 
 public class RecursiveFactorial {
